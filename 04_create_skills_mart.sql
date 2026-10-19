@@ -1,4 +1,5 @@
 --Step 4 : Mart - Create skills demand mart 
+-- A dimensional Mart
 
 DROP SCHEMA IF EXISTS skills_mart CASCADE;
 CREATE SCHEMA skills_mart;

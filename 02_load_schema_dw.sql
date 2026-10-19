@@ -84,3 +84,5 @@ SELECT * FROM job_postings_fact LIMIT 5;
 
 SELECT ' === Skills Job Dim Dimension Sample === ' AS info;
 SELECT * FROM skills_job_dim LIMIT 5;
+
+
